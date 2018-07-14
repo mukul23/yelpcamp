@@ -1,0 +1,12 @@
+img{
+    width:90%;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.formCenter{
+    width: 30%;
+    margin: 25px auto;
+}
