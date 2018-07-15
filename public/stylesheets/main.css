@@ -1,0 +1,13 @@
+
+.formCenter{
+    width: 30%;
+    margin: 25px auto;
+}
+
+.thumbnail img{
+    width:100%;
+}
+
+.thumbnail{
+    padding:0;
+}
